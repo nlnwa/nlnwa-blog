@@ -1,5 +1,5 @@
 ---
-title: "Veidemann"
+title: "Veidemann 1.0"
 date: 2020-05-06T15:21:13+02:00
 draft: false
 ---
